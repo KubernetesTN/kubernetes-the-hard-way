@@ -114,4 +114,4 @@ kubectl version --client
 Client Version: version.Info{Major:"1", Minor:"12", GitVersion:"v1.12.0", GitCommit:"0ed33881dc4355495f623c6f22e7dd0b7632b7c0", GitTreeState:"clean", BuildDate:"2018-09-27T17:05:32Z", GoVersion:"go1.10.4", Compiler:"gc", Platform:"linux/amd64"}
 ```
 
-Next: [Provisioning Compute Resources](03-compute-resources.md)
+Next: [Provisioning a CA and Generating TLS Certificates](04-certificate-authority.md)
