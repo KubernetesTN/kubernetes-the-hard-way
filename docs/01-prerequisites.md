@@ -1,5 +1,8 @@
 # Prerequisites
 
+## VMs!
+This tutorial assumes that you have a couple of VMs, one or more masters and one or more nodes 
+
 
 ## Running Commands in Parallel with tmux
 
